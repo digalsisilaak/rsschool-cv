@@ -2,10 +2,17 @@
 
 **Front end**
 
-## Контакты
-
-- GitHub: [1](https://github.com/digalsisilaak)
+> **Location:** Belarus
+> **Email:** emailgmail.com
+> **GitHub:** [1](https://github.com/digalsisilaak)
 
 ## Навыки
 
-- js / css / html
+**Launguages** _js / css / html_
+**Tools:** _git_
+
+### _Js code_
+
+```
+console.log("1")
+```
