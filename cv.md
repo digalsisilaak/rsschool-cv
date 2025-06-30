@@ -2,11 +2,13 @@
 
 **Front end**
 
+**About Me**
+
 > **Location:** Belarus
 > **Email:** emailgmail.com
 > **GitHub:** [1](https://github.com/digalsisilaak)
 
-## Навыки
+## Skill
 
 **Launguages** _js / css / html_
 **Tools:** _git_
